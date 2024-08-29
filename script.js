@@ -1,6 +1,6 @@
 function sim(){
 
-    location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+    location.href = "https://youtu.be/Gnm3hIcjiCQ";
 }
 function desvia(t){
   var btn = t;
